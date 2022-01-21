@@ -1,0 +1,11 @@
+paren
+=====
+  lisp like calculator
+
+usage
+-----
+  $ ./paren -[FLAG...] <filename>
+
+build
+-----
+  $ make
